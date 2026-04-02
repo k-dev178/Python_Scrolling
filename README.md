@@ -9,5 +9,5 @@
 * [BUILD A WEBSITE WITH FALSH](./markdown/7_build_website.md)
 
 ---
-최종과제링크 : [바로가기](https://k-dev178-python-crawling.up.railway.app/)<br>
+최종과제링크 : <a href="https://k-dev178-python-crawling.up.railway.app/" target="_blank" rel="noopener noreferrer">바로가기</a><br>
 코드 챌린지 실습파일 링크: [바로가기](https://github.com/k-dev178/Python_Scrolling_BluePrints)(챌린지 정책상 비공개)
