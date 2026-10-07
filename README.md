@@ -13,8 +13,8 @@
 코드 챌린지 실습파일 링크: [바로가기](https://github.com/k-dev178/Python_Scrolling_BluePrints)(챌린지 정책상 비공개)
 ---
 # 수료증
-[text](<수료증/Python으로 웹 스크래퍼 만들기.pdf>)
-[text](<수료증/파이썬 2주 완성반.pdf>)
+[Python으로 웹 스크래퍼 만들기.pdf](<수료증/Python으로 웹 스크래퍼 만들기.pdf>)
+[파이썬 2주 완성반.pdf](<수료증/파이썬 2주 완성반.pdf>)
 
 <img height="450" alt="Python으로 웹 스크래퍼 만들기" src="수료증/Python으로 웹 스크래퍼 만들기.png" />
 <img height="450" alt="파이썬 2주 완성반" src="수료증/파이썬 2주 완성반.png" />
